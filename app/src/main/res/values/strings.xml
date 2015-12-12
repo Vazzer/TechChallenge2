@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tech Challenge 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="xml_URL">http://earthquake.usgs.gov/earthquakes/shakemap/rss.xml</string>
+</resources>
